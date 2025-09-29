@@ -619,4 +619,4 @@ with nav_col2:
 
 with nav_col3:
     if st.button("View Dashboard →", use_container_width=True):
-        st.switch_page("../Home.py")
+        st.switch_page("Home.py")
